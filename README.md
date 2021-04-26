@@ -12,4 +12,5 @@ I used PyWebIO to deploy the deep learning based image classification for pokemo
 4. Run the command 'python app.py' from the current working directory (/pokedex).
 5. Few sample images have been provided to test the results of classification.
 
-## Google Drive link for CNN models: https://drive.google.com/drive/folders/1SiGx-phCIbw0dpYyFeTbNfxombnv7604?usp=sharing
+## Google Drive link for CNN models:
+https://drive.google.com/drive/folders/1SiGx-phCIbw0dpYyFeTbNfxombnv7604?usp=sharing
